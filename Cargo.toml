@@ -1,0 +1,8 @@
+[package]
+name = "rust-school"
+version = "0.1.0"
+edition = "2024"
+publish = false
+description = "공식 문서와 실습으로 배우는 Rust 기초 및 풀스택 학습 과정"
+
+[dependencies]
